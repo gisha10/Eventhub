@@ -8,7 +8,7 @@ Built with Django + Django REST Framework (ModelViewSets, serializers, DefaultRo
 
 ```bash
 git clone https://github.com/gisha10/Eventhub.git
-cd eventhubEventhub_Assignment
+cd eventhub
 
 python -m venv venv
 venv\Scripts\activate          # Windows
